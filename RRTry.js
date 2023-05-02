@@ -1,1 +1,1 @@
-console.loh('Maybe this time I have luch')
+console.log('Maybe this time I have luck')
